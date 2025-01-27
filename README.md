@@ -1,4 +1,4 @@
-# Zong Engine [![License](https://img.shields.io/github/license/zong4/ZongEngine.svg)](https://github.com/zong4/ZongEngine/blob/master/LICENSE)
+ # Zong Engine [![License](https://img.shields.io/github/license/zong4/ZongEngine.svg)](https://github.com/zong4/ZongEngine/blob/master/LICENSE)
 
 ![Zong Engine](/Resources/Branding/icon_full.png?raw=true "Zong Engine")
 
